@@ -24,6 +24,6 @@ contact us through mail and social media too.
 ## Group Members
 
  - [Om Chavan](https://github.com/OM1110)
- - [Sampada Mahadik](#)
- - [Parthavi Khatu](#)
+ - [Sampada Mahadik](https://github.com/mahadiksampada11)
+ - [Parthavi Khatu](https://github.com/parthavik)
 
